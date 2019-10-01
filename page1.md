@@ -2,7 +2,6 @@
 
 ---
 
-
-#Nice Header
+# Nice Header
 
 Nice paragraph
